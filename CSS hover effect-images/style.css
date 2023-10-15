@@ -1,0 +1,35 @@
+/*Chat with logo fixed*/
+body{
+    background-color:#78e0f0;
+}
+.box{
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    bottom: 200px;
+    right: 0;
+    overflow: hidden;
+    margin: 10px; 
+}
+
+.box img{
+    width: 200px;
+    height: 100px;
+    transition: all linear 0.01s;
+}
+.box hover-img{
+    width: 200px;
+    height: 150px;
+}
+img.hover-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0 ;
+}
+.box:hover img{
+    opacity: 0;
+}
+.box:hover img.hover-img{
+    opacity: 1;
+}

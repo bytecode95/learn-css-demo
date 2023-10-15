@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.service-button .btn{
+    position: fixed;
+    top:30%;
+    left: 20%;
+    width: 300px;
+    border-radius: 50px;
+    height: 100px; 
+}
+.service-button .btn{
+    transition: 0.7s;
+}
+
+.service-button .btn:hover{
+    transform: scale(0.95);
+}
+
+.service-button .btn span{
+    transition: 0.1s;
+}
+
+.service-button .btn:hover span{
+    color: white !important;
+}
