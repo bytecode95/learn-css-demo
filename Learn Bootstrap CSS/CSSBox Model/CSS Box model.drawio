@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-10-15T06:56:51.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.8.2 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="btPlL4bin823jCaKVFxK" version="21.8.2" type="device">
+  <diagram name="Page-1" id="xks_YLqY3of9s5-j12bj">
+    <mxGraphModel dx="882" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-15" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CSS BOX Model Explanation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="730" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="620" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Content&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Padding&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Border&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQrLJ50tbxgqpp8az5V-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Margin&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

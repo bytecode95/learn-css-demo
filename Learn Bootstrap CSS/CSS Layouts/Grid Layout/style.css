@@ -1,0 +1,40 @@
+.title{
+    text-align: center;
+}
+
+.grid-Container{
+    background-color: yellow;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid-item{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: rgb(245, 79, 106);  
+}
+
+.grid-item-1{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: rgb(245, 79, 106); 
+    grid-column-start: 1; 
+    grid-column-end: 3;
+}
+
+.grid-item-10{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: rgb(245, 79, 106); 
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
+
+.grid-item-8{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: rgb(245, 79, 106); 
+    grid-row-start: 3;
+    grid-row-end: 5;
+}

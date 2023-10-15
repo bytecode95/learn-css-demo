@@ -1,0 +1,17 @@
+
+.topic{
+    background-color: aqua;
+    text-align: center;
+}
+
+.btn{
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    padding-inline: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}

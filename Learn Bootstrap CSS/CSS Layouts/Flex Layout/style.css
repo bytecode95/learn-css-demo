@@ -1,0 +1,52 @@
+.topic{
+    text-align: center;
+}
+.sub-topic{
+    text-align: center;
+}
+
+.flex-container{
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    /* height: 800px; */
+    
+}
+
+.flex-item{
+    background-color: rgb(227, 54, 83);
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.flex-wrap-container{
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-wrapreverse-container{
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.flex-justifycontent-container{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-spacearound-container{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-spacebetween-container{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
